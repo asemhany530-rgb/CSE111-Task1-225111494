@@ -1,5 +1,4 @@
-// Name: YOUR FULL NAME
-// Student ID: YOUR STUDENT ID
+
 
 using System;
 
